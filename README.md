@@ -32,7 +32,7 @@ print(f"Square root of the number: {result}")
 ```
 
 ## Output:
-![output](/Screenshot%202023-11-29%20061931.png)
+![output](C:\Users\admin\Desktop\python github\Square-root-of-a-number\Screenshot 2023-11-29 061931.png)
 
 
 ## Result:
